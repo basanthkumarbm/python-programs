@@ -2,10 +2,10 @@
 
 A simple python program that performs basic arithmetic operations:
 
-Addition
-Subtraction
-Multiplication
-Division (with zero-division handling)
+- Addition
+- Subtraction
+- Multiplication
+- Division (with zero-division handling)
 
 ## How to Run
 
